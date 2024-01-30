@@ -8,3 +8,8 @@ const myObject = {
   };
   
   console.log(myObject);
+  const myObject1 = { type: 'object', value: 12 };
+const myObject2 = { type: 'object', value: 89 };
+
+console.log(myObject1);
+console.log(myObject2);
