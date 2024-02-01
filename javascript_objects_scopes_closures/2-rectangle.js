@@ -1,4 +1,4 @@
-// A class Rectangle that defines a rectangle
+#!/usr/bin/node
 
 class Rectangle {
   constructor(w, h) {
